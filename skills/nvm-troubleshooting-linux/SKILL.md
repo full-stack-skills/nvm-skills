@@ -1,7 +1,7 @@
 ---
 name: nvm-troubleshooting-linux
 description: Diagnose common nvm issues on Linux and WSL, including distro differences, profiles, and PATH errors.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

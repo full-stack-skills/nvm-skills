@@ -1,7 +1,7 @@
 ---
 name: nvm-defaults-and-nvmrc
 description: Define default Node versions and manage project-specific versions with .nvmrc and auto-use flows.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

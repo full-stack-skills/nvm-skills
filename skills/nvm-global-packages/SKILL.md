@@ -1,7 +1,7 @@
 ---
 name: nvm-global-packages
 description: Migrate global packages between Node versions and define a default global packages file for consistency.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

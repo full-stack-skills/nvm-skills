@@ -1,7 +1,7 @@
 ---
 name: nvm-install
 description: Provide comprehensive guidance for installing and updating nvm from the official README, including install scripts, profile selection, and required environment variables.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

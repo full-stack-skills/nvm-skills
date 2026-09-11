@@ -1,7 +1,7 @@
 ---
 name: nvm-uninstall
 description: Remove nvm cleanly, including NVM_DIR cleanup, profile edits, and PATH restoration.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

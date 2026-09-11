@@ -1,7 +1,7 @@
 ---
 name: nvm-misc
 description: Provide nvm overview, output color customization, tests, and automation examples like Ansible. Use when users ask for an nvm intro, color settings, running nvm tests, or Ansible install tasks.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

@@ -1,7 +1,7 @@
 ---
 name: nvm-troubleshooting-macos
 description: Diagnose common nvm issues on macOS, including profile loading, PATH priority, and permissions.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

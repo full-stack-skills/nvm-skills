@@ -1,7 +1,7 @@
 ---
 name: nvm-project-meta
 description: Provide nvm project metadata like maintainers, support policy, enterprise support, license, and copyright notice. Use when users ask about project governance or legal notices.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

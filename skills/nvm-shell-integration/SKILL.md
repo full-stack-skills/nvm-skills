@@ -1,7 +1,7 @@
 ---
 name: nvm-shell-integration
 description: Enable deeper shell integration and auto-switching for nvm across bash, zsh, and fish.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

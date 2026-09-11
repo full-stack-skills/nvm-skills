@@ -1,7 +1,7 @@
 ---
 name: nvm-usage-basics
 description: Cover everyday nvm usage for installing, switching, and listing Node versions, including LTS and system node.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

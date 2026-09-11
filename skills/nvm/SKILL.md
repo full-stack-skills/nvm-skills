@@ -1,7 +1,7 @@
 ---
 name: nvm
 description: Guidance for installing, configuring, and using nvm (Node Version Manager) based on the official README. Use when the user needs to manage Node.js versions, install nvm, or troubleshoot nvm usage.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

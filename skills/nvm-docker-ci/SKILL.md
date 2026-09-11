@@ -1,7 +1,7 @@
 ---
 name: nvm-docker-ci
 description: Cover nvm installation and usage in Docker images and CI/CD pipelines, including non-interactive shell loading.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
